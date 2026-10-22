@@ -1,6 +1,8 @@
 # Cosmetics-Recommender# Chemical Content-Based Cosmetics Recommendation System
 **MedTourEasy Traineeship · March 2026**
 
+*Guided project (DataCamp), completed as part of the MedTourEasy traineeship. I wrote the code for each task; the project structure and instructions were provided.*
+
 **Tools:** Python, Pandas, NumPy, Scikit-Learn (t-SNE), Bokeh
 
 A content-based recommender that maps Sephora products by their ingredients, so users can find products with a similar chemical makeup to ones they already like.
@@ -26,5 +28,5 @@ Two products that sit close together on the map have very similar ingredients:
 The Laneige product is **37% cheaper** and **rated higher**. That's a useful alternative for the same skin needs.
 
 ## Files
-- [notebooks_final.ipynb](notebooks_final.ipynb): full analysis
+- [Cos_rec_notebooks_final.ipynb](Cos_rec_notebooks_final.ipynb): full analysis
 - [Project report (PDF)](Data%20Science%20Final%20Project-%20Cosmetics%20PDF%20F.pdf)
